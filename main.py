@@ -10,7 +10,7 @@ from base_search import searchforbase
 # The main logic. Here the account choice is queried and passed to “searchforbase”. Then the loot process runs
 # until the code is stopped. (Still expandable.)
 
-used_account = get_account_choice()
+used_account = "1"
 while True:
     time.sleep(5)
     searchforbase(used_account)
