@@ -24,7 +24,7 @@ import os
 
 LOOKING_FOR_BASE = True
 MIN_COMBINED_MAIN_ACCOUNT = 1800000  # 1.8 Million Elixir + Gold Combined
-MIN_COMBINED_ALT_ACCOUNT = 900000  # 900K Elixir + Gold Combined
+MIN_COMBINED_ALT_ACCOUNT = 1200000  # 1.2 Million Elixir + Gold Combined
 ATTACK_COUNTER = 0
 
 load_dotenv()
